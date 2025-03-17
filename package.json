@@ -1,0 +1,30 @@
+{
+  "name": "expressbookreviews",
+  "version": "1.0.0",
+  "description": "A book review application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MajdRushdi/expressBookReviews.git"
+  },
+  "keywords": [
+    "book",
+    "reviews",
+    "express",
+    "nodejs",
+    "web",
+    "app"
+  ],
+  "author": "Majd Rushdi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MajdRushdi/expressBookReviews/issues"
+  },
+  "homepage": "https://github.com/MajdRushdi/expressBookReviews#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
